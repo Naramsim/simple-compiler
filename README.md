@@ -1,5 +1,5 @@
 # simple-compiler
-Simple compiler
+Simple compiler, done for a class project
 
 origin source by Tom Niemann at epaperpress.com/lexandyacc
 
