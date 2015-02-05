@@ -17,3 +17,7 @@ Working feature:
 
 Not working:
 * type checking on long expressions
+
+
+Working examples:
+https://github.com/LorenzoGramola/LFC2014-2015/tree/master/exam
